@@ -1,4 +1,4 @@
-<h3 align="center">Senior Unity/AR/VR, NFT, Unreal engine developerSenior Full Stack Developer (Ruby on Rails, React)</h3>
+<h3 align="center">Senior Full Stack Developer (Ruby on Rails, React)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softdevpro9&label=Profile%20views&color=0e75b6&style=flat" alt="softdevpro9" /> </p>
 
